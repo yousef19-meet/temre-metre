@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,QACF,CAEA,QACE,YAAa,CACb,aAAc,CAEd,kCAA4B,CAA5B,0BACF","file":"main.f0af7f21.chunk.css","sourcesContent":["body {\r\n  margin: 0;\r\n}\r\n\r\n.flexC1 {\r\n  width: 33.3vw;\r\n  height: 33.3vh;\r\n\r\n  transition: 0.5s ease-in-out;\r\n}\r\n"]}
